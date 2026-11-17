@@ -24,7 +24,7 @@ An automatic fish-feeding system built with an **ESP8266 D1 mini** and a **servo
 
 The following diagram shows how to connect the servo motor to the ESP8266 D1 mini.
 
-![Smart Automatic Fish Feeder Wiring Diagram](assets/circuit-diagram.png)
+![Smart Automatic Fish Feeder Wiring Diagram](assets/circuit.png)
 
 ### Pin connections
 
