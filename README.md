@@ -1,4 +1,4 @@
-# 🐟 Smart Automatic Fish Feeders
+# 🐟 Smart Automatic Fish Feeder
 
 An automatic fish-feeding system built with an **ESP8266 D1 mini** and a **servo motor**. The project supports manual feeding through HTTP endpoints and up to five scheduled feeding slots.
 
